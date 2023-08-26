@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hi, I'm Gaurav 👋
+📚  Studying Computer Science at the University of Maryland, College Park
 
+💡 I am particularly interested in backend development.
+
+📎 You can find me on LinkedIn [here](https://www.linkedin.com/in/gmahaja/)
 <!--
 **gaurav-maha/gaurav-maha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
