@@ -1,7 +1,4 @@
 ### Hi, I'm Gaurav 👋
-📚  Studying Computer Science at the University of Maryland, College Park
-
-💡 I am particularly interested in backend development.
 
 📎 You can find me on LinkedIn [here](https://www.linkedin.com/in/gmahaja/)
 <!--
